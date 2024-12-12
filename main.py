@@ -1,6 +1,6 @@
 from flask import Flask, render_template_string, request
 
-app = Flask(__𝗕𝗟𝗔𝗖𝗞 𝗣𝗔𝗡𝗧𝗛𝗘𝗥 𝗔𝗥𝗦 𝗕𝗥𝗔𝗡𝗗__)
+app = Flask(__ARS BRAND__)
 
 # HTML Code (Embedded in Flask script)
 html_code = """
