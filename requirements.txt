@@ -1,1 +1,1 @@
-pkg.jeson
+pkg.json
